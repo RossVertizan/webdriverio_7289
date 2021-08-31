@@ -1,0 +1,30 @@
+{
+  "name": "webdriverio_7289",
+  "version": "1.0.0",
+  "description": "Testcase provided for webdriverio #7289",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RossVertizan/webdriverio_7289.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RossVertizan/webdriverio_7289/issues"
+  },
+  "homepage": "https://github.com/RossVertizan/webdriverio_7289#readme",
+  "dependencies": {
+    "@wdio/cli": "^7.11.1"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.11.1",
+    "@wdio/mocha-framework": "^7.11.1",
+    "@wdio/spec-reporter": "^7.10.1",
+    "chromedriver": "^92.0.2",
+    "wdio-chromedriver-service": "^7.2.0"
+  }
+}
