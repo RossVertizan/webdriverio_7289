@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/RossVertizan/webdriverio_7289#readme",
   "dependencies": {
-    "@wdio/cli": "^7.11.1"
+    "@wdio/cli": "^7.11.1",
+    "wdio-image-comparison-service": "^2.3.0"
   },
   "devDependencies": {
     "@wdio/local-runner": "^7.11.1",

@@ -1,4 +1,4 @@
-## RossVertizan/wedbdriverio_7289
+## RossVertizan/weddriverio_7289
 Testcase provided for webdriverio #7289
 
 ### How the repo was created
@@ -35,6 +35,9 @@ SecurePage.btnSubmit.click is not a function
 
 ### How to use the repo
 Here are the steps to replicate the above with this repo:
+
+NOTE: The repo is also being used for a wdio-image-comparison-service issue, check the wdio.conf.js and make sure that only the example.e2e.js file is selected in the specs section.
+
 1. Clone the repo and open a shell in the top level fo the repo
 2. Run ```npm install``` - installs the necessary packages
 3. Run ```.\node_modules\.bin\wdio``` - observe that all the tests pass
